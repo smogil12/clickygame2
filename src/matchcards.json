@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "./assets/images/beatles.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "./assets/images/bowie.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "./assets/images/destroyer.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "./assets/images/elvis.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "./assets/images/metallica.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "./assets/images/pink.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "./assets/images/priest.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "./assets/images/queen.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "./assets/images/rage.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "./assets/images/rumors.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "./assets/images/theclash.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "./assets/images/zeppellin.jpg",
+    "clicked": false
+  }
+]
