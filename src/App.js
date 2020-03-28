@@ -1,6 +1,8 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import MatchCard from "./components/MatchCard";
+import Wrapper from "./components/Wrapper";
+import Title from "./components/Title";
+import "./App.css";
 
 function App() {
   return (
